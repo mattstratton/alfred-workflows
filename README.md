@@ -1,6 +1,9 @@
 # alfred-workflows
 This is a repo of workflows I have created for Alfred. They might be useful to you. They might not be.
 
+[Arrested DevOps Guest Image](#ado-guest-image)<br>
+[DevOpsDays Speaker Image](#dod-speaker-image)
+
 ## ado-guest-image
 
 Alfred 4.0 workflow which uses a file filter to load an image, resizes it, and saves it for use as an Arrested DevOps guest image
