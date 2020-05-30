@@ -34,7 +34,7 @@ Alfred 4.0 workflow which uses a file filter to load an image, resizes it, and s
 
 ### Dependencies
 
-Requires ImageMagick
+Requires [ImageMagick](https://imagemagick.org/)
 
 ### Installation
 
@@ -48,7 +48,7 @@ Requires ImageMagick
 `dod ${SPEAKER_NAME}`
 
 ```
-pshop michael-bluth
+dod michael-bluth
 ```
 
 ![](screenshots/dod-speaker-image-screenshot1.png)
