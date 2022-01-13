@@ -1,8 +1,28 @@
 # alfred-workflows
 This is a repo of workflows I have created for Alfred. They might be useful to you. They might not be.
 
+[Winword](#winword)<br>
 [Arrested DevOps Guest Image](#ado-guest-image)<br>
 [DevOpsDays Speaker Image](#dod-speaker-image)
+
+## winword
+
+This is a silly Alfred 4.0 workflow that helps the transition from Windows to Mac; if you are used to typing "winword" to launch Word, this lets you do it in Alfred!
+
+### Dependencies
+
+Requires Microsoft Word.
+
+### Installation 
+
+Download and import the [winword.alfredworkflow](https://github.com/mattstratton/alfred-workflows/blob/master/workflows/winword.alfredworkflow) workflow file
+
+### Usage
+
+Open Alfred via hotkey and type "winword"
+
+![](screenshots/winword-screenshot.png)
+
 
 ## ado-guest-image
 
